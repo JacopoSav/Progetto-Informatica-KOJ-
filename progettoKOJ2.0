@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <title>Netiquette</title>
+  </head>
+  <body  style=" 
+ "
+>
+    <h1 style="text-align: center;background-image: url('immaginesfondo.jpg');
+ background-color: #cccccc;"><b>Netiquette </b></h1>
+
+      <h2> Che cos'è? </h2>
+    <p style="background-color: white;"> La netiquette è una parola mista che unisce il vocabolo inglese network (rete) e quello francese étiquette (buona educazione). È un insieme di regole informali che disciplinano il buon comportamento di un utente sul web di Internet, specie nel rapportarsi agli altri utenti attraverso risorse come newsgroup, mailing list, forum, blog, reti sociali o email in genere. Il rispetto della netiquette non è imposto da alcuna legge, ma sotto un aspetto giuridico, la netiquette è spesso richiamata nei contratti di fornitura di servizi di accesso da parte dei provider. </p>
+    <p><br>
+      <a href="#" aria-hidden="true" data-attribute="back-to-top" class="back-to-top back-to-top-small">
+        <svg class="icon icon-light"><use:href xlink="Documenti/sito/home.png"></use:href></svg>
+      </a> </p>
+    <p><br>
+    </p>
+  </body>
+</html>
